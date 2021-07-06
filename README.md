@@ -1,4 +1,6 @@
 # Example code and data for "Practical Data Science with R 1st Edition" by Nina Zumel and John Mount, Manning 2014.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuneskw%2FzmPDSwR.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuneskw%2FzmPDSwR?ref=badge_shield)
+
 
 Please consider upgrading to the in-progress ["Practical Data Science with R 2nd Edition" by Nina Zumel and John Mount (Manning 2019)](https://www.manning.com/books/practical-data-science-with-r-second-edition) (code/data/examples [here](https://github.com/WinVector/PDSwR2)).
 
@@ -59,3 +61,6 @@ No guarantee, indemnification or claim of fitness is made regarding any of these
 No claim of license on works of others or derived data.
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjuneskw%2FzmPDSwR.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjuneskw%2FzmPDSwR?ref=badge_large)
